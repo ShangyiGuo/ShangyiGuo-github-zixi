@@ -29,7 +29,6 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
         * Synthesized n-channel nanowires (InP) with high electron mobility and p-channel nanowires (GaSb) with high hole mobility by controllable vapor-solid-solid growth mode of CVD.
         * Studied in electrical and photoelectric properties of III-V nanowires (GaSb, InP) by using Semiconductor Device Analyzer and probe station.
