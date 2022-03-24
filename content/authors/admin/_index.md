@@ -14,7 +14,7 @@ organizations:
   url: https://www.en.sdu.edu.cns.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Condensed Matter Physics: 2D quantum materials and devices, 1D semiconductors and optoelectronic devices.
+
 
 # Interests to show in About widget
 interests:
