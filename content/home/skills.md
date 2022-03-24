@@ -17,10 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 10
-  icon_pack: fab
+  icon: ":smile:"
+  icon_pack: "emoji"
   name: A+
 - description: 16
-  icon_pack: fab
   name: A
 - description: 7
   name: A-
