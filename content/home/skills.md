@@ -17,12 +17,16 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 10
-  icon: ":smile:"
+  icon: ":star_struck:"
   icon_pack: "emoji"
   name: A+
 - description: 16
+  icon: ":stuck_out_tongue_winking_eye:"
+  icon_pack: "emoji"
   name: A
 - description: 7
+  icon: ":wink:"
+  icon_pack: "emoji"
   name: A-
 
 # Uncomment to use emoji icons.
