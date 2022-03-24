@@ -35,15 +35,17 @@ experience:
         * Read masses of papers with regard to the III-V nanowires and participated weekly group meetings.
         * Working on the project now with Postdoc and PhD students.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Design & development of a multifunctional passive filter for test circuits of 2D systems
+    company: Instructed by Professor. Zhe Wang, School of Physics
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    location: Xian jiaotong University
+    date_start: '2021-07-01'
+    date_end: '2021-8-31'
+    
+        * Designed a kind of passive filter capable of adjusting cutoff frequency and passband range (1Hz, 100Hz and 1000Hz).
+        * Used the required components to weld the circuit according to the designed and simulated circuit diagram. (Three same multifunctional passive filters have been successfully fabricated and the performance is good.)
+        * Presented individual research report entitled “Multifunctional Passive Filter” in group meeting.
+        * Learned laboratory operations of 2D quantum materials and devices, prepared two-dimensional materials (graphene and hNB) with tapes, combined them into hNB-graphene-hNB structures under high power microscopy, and tested the properties of samples.
 design:
   columns: '2'
 ---
