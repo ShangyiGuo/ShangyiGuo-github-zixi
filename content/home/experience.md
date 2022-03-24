@@ -25,7 +25,7 @@ experience:
   - title: Controllable synthesis and performance test of high-mobility III-V nanowires
     company: Instructed by: Professor. Zai-xing Yang
     company_url: ''
-    location: Shandong University, China
+    location: Shandong University
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
