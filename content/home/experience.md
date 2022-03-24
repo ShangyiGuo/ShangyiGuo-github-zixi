@@ -35,7 +35,7 @@ experience:
         * Read masses of papers with regard to the III-V nanowires and participated weekly group meetings.
         * Working on the project now with Postdoc and PhD students.
         
-  - title: Design & development of a multifunctional passive filter for test circuits of 2D systems
+  - title: Design and development of a multifunctional passive filter for test circuits of 2D systems
     company: Instructed by Professor. Zhe Wang, School of Physics
     company_url: ''
     location: Xian jiaotong University
