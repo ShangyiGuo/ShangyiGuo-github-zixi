@@ -33,10 +33,11 @@ content:
     tag: Communications
   - name: Works
     tag: Works
-  - name: Sports
-    tag: Sports
   - name: Competitions
     tag: Competitions
+  - name: Sports
+    tag: Sports
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
