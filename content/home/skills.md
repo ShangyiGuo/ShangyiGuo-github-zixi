@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 10
+- description: 10 courses
   icon: ":star_struck:"
   icon_pack: "emoji"
   name: A+
-- description: 16
+- description: 16 courses
   icon: ":stuck_out_tongue_winking_eye:"
   icon_pack: "emoji"
   name: A
-- description: 7
+- description: 7 courses
   icon: ":wink:"
   icon_pack: "emoji"
   name: A-
