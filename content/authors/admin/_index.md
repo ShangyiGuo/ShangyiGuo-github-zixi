@@ -44,6 +44,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/ShangyiGuo
 - icon: facebook
+  icon_pack: fab
   link: https://facebook.com/ShangyiGuo
 
 # Link to a PDF of your resume/CV.
