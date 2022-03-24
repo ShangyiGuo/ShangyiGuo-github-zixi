@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Controllable synthesis and performance test of high-mobility III-V nanowires
-    company: Instructed by: Professor. Zai-xing Yang
+    company: Instructed by Professor. Zai-xing Yang
     company_url: ''
     location: Shandong University
     date_start: '2021-01-01'
