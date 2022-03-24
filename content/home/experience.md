@@ -35,7 +35,7 @@ experience:
         * Read masses of papers with regard to the III-V nanowires and participated weekly group meetings.
         * Working on the project now with Postdoc and PhD students.
         
-- title: Controllable synthesis and performance test of high-mobility III-V nanowires
+  - title: Controllable synthesis and performance test of high-mobility III-V nanowires
     company: Instructed by Professor. Zai-xing Yang
     company_url: ''
     location: Shandong University
