@@ -40,7 +40,7 @@ experience:
     company_url: ''
     location: Xian jiaotong University
     date_start: '2021-07-01'
-    date_end: '2021-8-31'
+    date_end: '2021-08-31'
     description: |2-
      
         * Designed a kind of passive filter capable of adjusting cutoff frequency and passband range (1Hz, 100Hz and 1000Hz).
