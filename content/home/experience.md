@@ -48,6 +48,18 @@ experience:
         * Presented individual research report entitled "Multifunctional Passive Filter" in group meeting.
         * Learned laboratory operations of 2D quantum materials and devices, prepared two-dimensional materials (graphene and hNB) with tapes, combined them into hNB-graphene-hNB structures under high power microscopy, and tested the properties of samples.
 
+  - title: Physical mechanism of membrane crossing and anticancer function of Nano-realgar 
+    company: Instructed by Professor. Yang Tan
+    company_url: ''
+    location: Shandong University
+    date_start: '2021-03-01'
+    date_end: '2021-05-31'
+    description: |2-
+     
+        * Investigated relevant literature on the bactericidal effect of nanomaterials. 
+        * Wrote a research report entitled “the Physical Mechanism of Membrane Crossing and Anticancer Function of Nano-realgar” by summarizing a number of papers, in which a conjecture on the physical mechanism of membrane crossing of Nano-realgar was put forward.
+        * Presented individual research report entitled “NANO-REALGAR · ANTI-CANCER · CELL MEMBRANE” in the final seminar.
+
 design:
-  columns: '2'
+  columns: '3'
 ---
