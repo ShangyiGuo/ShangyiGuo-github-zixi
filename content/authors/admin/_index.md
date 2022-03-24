@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 2D quantum materials and devices
+- 1D semiconductors and optoelectronic devices
+- First principles calculations
 
 # Education to show in About widget
 education:
