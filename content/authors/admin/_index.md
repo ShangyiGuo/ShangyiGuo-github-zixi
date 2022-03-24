@@ -18,8 +18,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- 2D quantum materials and devices
-- 1D semiconductors and optoelectronic devices
+- 2D materials and devices
+- 1D semiconductors and devices
 - First principles calculations
 
 # Education to show in About widget
