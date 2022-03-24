@@ -35,18 +35,19 @@ experience:
         * Read masses of papers with regard to the III-V nanowires and participated weekly group meetings.
         * Working on the project now with Postdoc and PhD students.
         
-  - title: Controllable synthesis and performance test of high-mobility III-V nanowires
-    company: Instructed by Professor. Zai-xing Yang
+ - title: Design and development of a multifunctional passive filter for test circuits of 2D systems
+    company: Instructed by Professor. Zhe Wang
     company_url: ''
-    location: Shandong University
-    date_start: '2021-09-01'
-    date_end: ''
+    location: Xian jiaotong University
+    date_start: '2021-07-01'
+    date_end: '2021-8-31'
     description: |2-
-        
-        * Synthesized n-channel nanowires (InP) with high electron mobility and p-channel nanowires (GaSb) with high hole mobility by controllable vapor-solid-solid growth mode of CVD.
-        * Studied in electrical and photoelectric properties of III-V nanowires (GaSb, InP) by using Semiconductor Device Analyzer and probe station.
-        * Read masses of papers with regard to the III-V nanowires and participated weekly group meetings.
-        * Working on the project now with Postdoc and PhD students.
+     
+        * Designed a kind of passive filter capable of adjusting cutoff frequency and passband range (1Hz, 100Hz and 1000Hz).
+        * Used the required components to weld the circuit according to the designed and simulated circuit diagram. (Three same multifunctional passive filters have been successfully fabricated and the performance is good.)
+        * Presented individual research report entitled “Multifunctional Passive Filter” in group meeting.
+        * Learned laboratory operations of 2D quantum materials and devices, prepared two-dimensional materials (graphene and hNB) with tapes, combined them into hNB-graphene-hNB structures under high power microscopy, and tested the properties of samples.
+
 design:
   columns: '2'
 ---
