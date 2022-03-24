@@ -61,5 +61,5 @@ experience:
         * Presented individual research report entitled “NANO-REALGAR · ANTI-CANCER · CELL MEMBRANE” in the final seminar.
 
 design:
-  columns: '3'
+  columns: '2'
 ---
