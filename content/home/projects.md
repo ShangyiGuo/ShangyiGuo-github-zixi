@@ -27,10 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Scholarship
+    tag: Scholarship
+  - name: Communications
+    tag: Communications
+  - name: Works
+    tag: Works
+  - name: Sports
+    tag: Sports
+  - name: Competitions
+    tag: Competitions
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
