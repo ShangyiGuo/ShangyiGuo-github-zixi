@@ -40,12 +40,12 @@ experience:
     company_url: ''
     location: Xian jiaotong University
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2021-08-31'
     description: |2-
      
         * Designed a kind of passive filter capable of adjusting cutoff frequency and passband range (1Hz, 100Hz and 1000Hz).
         * Used the required components to weld the circuit according to the designed and simulated circuit diagram. (Three same multifunctional passive filters have been successfully fabricated and the performance is good.)
-        * Presented individual research report entitled Multifunctional Passive Filter in group meeting.
+        * Presented individual research report entitled "Multifunctional Passive Filter" in group meeting.
         * Learned laboratory operations of 2D quantum materials and devices, prepared two-dimensional materials (graphene and hNB) with tapes, combined them into hNB-graphene-hNB structures under high power microscopy, and tested the properties of samples.
 
 design:
