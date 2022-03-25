@@ -11,7 +11,7 @@ external_link: ""
 
 image:
   caption: Photo by Shangyi Guo
-  placement: 1
+  placement: 3
   focal_point: "Center"
   preview_only: false
 
