@@ -61,7 +61,7 @@ email: ""
 highlight_name: true
 ---
 
-I am an undergraduate student at **Shandong University**, keening on **Condensed Matter Physics**. My research focuses on understanding electronic and quantum properties of low dimensional systems by nano-device fabrication and electronic transport measurements. I am working on controllable synthesis and performance investigation of III-V nanowires semiconductor nanostructures for optoelectronic device applications.
+I am an undergraduate student at [**Shandong University**](https://www.en.sdu.edu.cn/), keening on **Condensed Matter Physics**. My research focuses on understanding electronic and quantum properties of low dimensional systems by nano-device fabrication and electronic transport measurements. I am working on controllable synthesis and performance investigation of III-V nanowires semiconductor nanostructures for optoelectronic device applications.
 
 I am also interested in **first principles calculations** of novel quantum phenomena in Condensed Matters.
 
