@@ -11,7 +11,9 @@ external_link: ""
 
 image:
   caption: Photo by Shangyi Guo
-  focal_point: "Full"
+  placement: 1
+  focal_point: "Center"
+  preview_only: false
 
 
 # Slides (optional).
