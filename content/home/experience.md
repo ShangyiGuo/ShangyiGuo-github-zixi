@@ -38,7 +38,7 @@ experience:
   - title: Design and development of a multifunctional passive filter for test circuits of 2D systems
     company: Instructed by Professor. Zhe Wang
     company_url: ''
-    location: Xian jiaotong University
+    location: Xi'an jiaotong University
     date_start: '2021-07-01'
     date_end: '2021-08-31'
     description: |2-
