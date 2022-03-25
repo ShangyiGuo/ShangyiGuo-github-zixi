@@ -2,7 +2,7 @@
 title: Chentianren Scholarship
 summary: Chang'an No.1 High School
 tags:
-- Communications
+- Scholarship
 date: "2019-04-15T00:00:00Z"
 
 
