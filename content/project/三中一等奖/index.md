@@ -1,8 +1,10 @@
 ---
 title: First Prize
 summary: Chang'an No.3 Middle School
+tags:
+- Scholarship 
 date: "2017-02-22T00:00:00Z"
-tag: "Scholarship"
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
