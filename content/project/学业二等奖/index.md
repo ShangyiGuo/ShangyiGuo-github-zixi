@@ -1,5 +1,5 @@
 ---
-title: •	Annual Academic Scholarship
+title: Annual Academic Scholarship
 summary: Shandong University
 tags:
 - Scholarship
