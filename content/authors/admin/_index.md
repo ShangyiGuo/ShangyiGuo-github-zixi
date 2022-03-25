@@ -29,7 +29,7 @@ education:
     institution: Shandong University
     year: 09/2020-present
   - course: Research Internship
-    institution: Xian jiaotong University
+    institution: Xi'an jiaotong University
     year: 07/2021-08/2021
 
 # Social/Academic Networking
@@ -61,9 +61,9 @@ email: ""
 highlight_name: true
 ---
 
-I am an undergraduate student in SDU, keening on Condensed Matter Physics. My research focuses on understanding electronic and quantum properties of 2D systems by nano-device fabrication and electronic transport measurements and controllable synthesis and performance investigation of III-V nanowires semiconductor nanostructures for optoelectronic device applications.
+I am an undergraduate student at **Shandong University**, keening on **Condensed Matter Physics**. My research focuses on understanding electronic and quantum properties of low dimensional systems by nano-device fabrication and electronic transport measurements. I am working on controllable synthesis and performance investigation of III-V nanowires semiconductor nanostructures for optoelectronic device applications.
 
-I am also interested in first principles calculations of novel quantum phenomena in Condensed Matters.
+I am also interested in **first principles calculations** of novel quantum phenomena in Condensed Matters.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
