@@ -16,6 +16,9 @@ main:
   - name: Honor&Awards
     url: '#projects'
     weight: 40
+  - name: Posts
+    url: '#posts'
+    weight: 50
   - name: Talks
     url: '#talks'
     weight: 60
