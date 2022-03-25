@@ -11,7 +11,7 @@ external_link: ""
 
 image:
   caption: Photo by Shangyi Guo
-  focal_point: Smart
+  focal_point: Full
 
 
 # Slides (optional).
