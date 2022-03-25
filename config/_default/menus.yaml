@@ -13,8 +13,8 @@ main:
   - name: Research
     url: '#experience'
     weight: 30
-  - name: Posts
-    url: '#posts'
+  - name: Honor&Awards
+    url: '#projects'
     weight: 40
   - name: Projects
     url: '#projects'
