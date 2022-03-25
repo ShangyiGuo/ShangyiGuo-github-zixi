@@ -36,11 +36,11 @@ tags:
 
 ---
 
-## Overview
+## Welcome to my website!
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+I built my old website last semester by sxl which is a tool used to build web without codes. However, there were many problems and limitations when I built it without codes.
+After learning C and Python, I have had a better understanding of codes and programme.Therefore, I use Github to build this one recently.
+Welcome once again!
 
 
 ## Get Started
