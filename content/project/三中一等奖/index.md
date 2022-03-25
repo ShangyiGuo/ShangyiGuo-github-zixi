@@ -1,7 +1,7 @@
 ---
 title: First Prize
 summary: Chang'an No.3 Middle School
-date: "2017-02-2T00:00:00Z"
+date: "2017-02-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,5 +16,3 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
----
