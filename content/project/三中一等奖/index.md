@@ -5,7 +5,6 @@ date: "2017-02-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-external_link: "Scholarship"
 
 image:
   caption: Photo by Shangyi Guo
