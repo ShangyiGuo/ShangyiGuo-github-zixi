@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: steinguo@outlook.com
+  phone: +86 19929062698
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: No. 27 of Shanda Rd. S
+    city: Jinan
+    region: Shandong
+    postcode: '250014'
+    country: China
+    country_code: CHN
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
