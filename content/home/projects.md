@@ -50,12 +50,6 @@ design:
   #   5 = Showcase
   view: 3
   
-[advanced]
- # Custom CSS.
- css_style = ""
-
- # CSS class.
- css_class = ""
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
