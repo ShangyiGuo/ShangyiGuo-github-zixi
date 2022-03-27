@@ -66,4 +66,4 @@ I am an undergraduate student at [**Shandong University**](https://www.en.sdu.ed
 I am also interested in **first principles calculations** of novel quantum phenomena in Condensed Matters.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Shangyi Guo_2022.03.pdf" "newtab" >}}CV{{< /staticref >}}.
