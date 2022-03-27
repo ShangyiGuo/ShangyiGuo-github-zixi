@@ -3,7 +3,7 @@ title: Pioneer Scholarship
 summary: Chang'an No. 1 High School
 tags:
 - Scholarship
-date: "2020-05-5T00:00:00Z"
+date: "2020-05-05T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
