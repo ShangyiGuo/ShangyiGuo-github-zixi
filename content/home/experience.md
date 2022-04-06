@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Controllable synthesis and performance test of high-mobility III-V nanowires
+  - title: Controllable synthesis and performance test of heterostructures III-V nanowires
     company: Instructed by Professor. Zai-xing Yang
     company_url: ''
     location: Shandong University
@@ -30,10 +30,10 @@ experience:
     date_end: ''
     description: |2-
         
-        * Synthesized n-channel nanowires (InP) with high electron mobility and p-channel nanowires (GaSb) with high hole mobility by controllable vapor-solid-solid growth mode of CVD.
-        * Studied in electrical and photoelectric properties of III-V nanowires (GaSb, InP) by using Semiconductor Device Analyzer and probe station.
+        * Synthesized heterostructures III-V nanowires with peculiar photoconductive properties by controllable vapor-solid-solid growth mode of CVD.
+        * Studied in electrical and photoelectric properties of heterostructures III-V nanowires by using Semiconductor Device Analyzer and semiconductor laser.
         * Read masses of papers with regard to the III-V nanowires and participated weekly group meetings.
-        * Working on the project now with Postdoc and PhD students.
+        * Working on the project with Postdoc now.
         
   - title: Design and development of a multifunctional passive filter for test circuits of 2D systems
     company: Instructed by Professor. Zhe Wang
