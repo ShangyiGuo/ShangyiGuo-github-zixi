@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Controllable synthesis and performance test of heterostructures III-V nanowires
+  - title: Controllable synthesis and photoelectric performance (infrared detection) investigation of Core-Shell III-V nanowires
     company: Instructed by Professor. Zai-xing Yang
     company_url: ''
     location: Shandong University
@@ -30,8 +30,8 @@ experience:
     date_end: ''
     description: |2-
         
-        * Synthesized heterostructures III-V nanowires with peculiar photoconductive properties by controllable vapor-solid-solid growth mode of CVD.
-        * Studied in electrical and photoelectric properties of heterostructures III-V nanowires by using Semiconductor Device Analyzer and semiconductor laser.
+        * Synthesized Core-Shell III-V nanowires (GaSb@SnS_2, GaAs@GeS_2) with high aspect ratio and uniform shell thickness by controllable vapor-solid-solid growth mode of CVD.
+        * 	Discovered novel negative photoresponse which can enhance the photocurrent in near-infrared range (1310nm, 1550nm) of Core-Shell III-V nanowires (GaSb@SnS_2, GaAs@GeS_2) in visible wavelengths (405nm, 520nm) by using Semiconductor Device Analyzer and semiconductor laser.
         * Read masses of papers with regard to the III-V nanowires and participated weekly group meetings.
         * Working on the project with Postdoc now.
         
