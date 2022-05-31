@@ -61,7 +61,7 @@ email: ""
 highlight_name: true
 ---
 
-杨佳悦！！！I am an undergraduate student at [**Shandong University**](https://www.en.sdu.edu.cn/), keening on **Condensed Matter Physics**. My research focuses on understanding electronic and quantum properties of low dimensional systems by nano-device fabrication and electronic transport measurements. I am working on controllable synthesis and photoelectric performance investigation of III-V nanowires semiconductor nanostructures for optoelectronic device applications at [**Yang's Group**](https://faculty.sdu.edu.cn/yangzaixing/zh_CN/index.htm). I used to work on 2D material experimental study at [**Zhe Wang's Group**](https://gr.xjtu.edu.cn/en/web/zhe.wang) during my freshman year summer vacation.
+I am an undergraduate student at [**Shandong University**](https://www.en.sdu.edu.cn/), keening on **Condensed Matter Physics**. My research focuses on understanding electronic and quantum properties of low dimensional systems by nano-device fabrication and electronic transport measurements. I am working on controllable synthesis and photoelectric performance investigation of III-V nanowires semiconductor nanostructures for optoelectronic device applications at [**Yang's Group**](https://faculty.sdu.edu.cn/yangzaixing/zh_CN/index.htm). I used to work on 2D material experimental study at [**Zhe Wang's Group**](https://gr.xjtu.edu.cn/en/web/zhe.wang) during my freshman year summer vacation.
 
 I am also want to carry out **Numerical investigation** of novel quantum phenomena in Condensed Matters.
 
