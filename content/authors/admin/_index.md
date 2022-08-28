@@ -18,7 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- 2D materials
+- 2D Materials
 - Nanowires
 - Machine Learning
 
