@@ -33,18 +33,29 @@ experience:
         * Developing molecular dynamics potentials of 2D systems (TMDs-Graphene, TMDs-hBN) as accurate as the DFT via Deep Potentials Molecular Dynamics.
         * Working on the project now and participating in weekly group meetings.
        
+ - title: Novel polymer-free assembly method of 2D systems under ultra-high vacuum
+    company: Instructed by Professor. Yuanbo Zhang
+    company_url: ''
+    location: Fudan University
+    date_start: '2022-07-01'
+    date_end: '2022-08-01'
+    description: |2-
+     
+        * Developed a polymer-free process to pick up and assemble 2D materials (h-BN) using 300nm and 500nm 〖Si〗_3 N_4 thin film cantilevers coated with metals (2nm Cr,6nm Au) under ultra-high vacuum.
+        * Designed a fixture for fixing the polymer-free pick-up tools via solid work.
+        * Presented individual internship report entitled “Polymer-free Assembly of 2D Systems under Ultra-high Vacuum” in the final seminar.
+   
   - title: Controllable synthesis and photoelectric performance (infrared detection) investigation of Core-Shell III-V nanowires
     company: Instructed by Professor. Zai-xing Yang
     company_url: ''
     location: Shandong University
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: 'P2022-06-01'
     description: |2-
         
         * Synthesized Core-Shell III-V nanowires (GaSb@SnS2, GaAs@GeS2) with high aspect ratio and uniform shell thickness by controllable vapor-solid-solid growth mode of CVD.
         *	Discovered novel negative photoresponse which can enhance the photocurrent in near-infrared range (1310nm, 1550nm) of Core-Shell III-V nanowires (GaSb@SnS2, GaAs@GeS2) in visible wavelengths (405nm, 520nm) by using Semiconductor Device Analyzer and semiconductor laser.
-        * Read masses of papers with regard to the III-V nanowires and participated weekly group meetings.
-        * Working on the project with Postdoc now.
+        * Read masses of papers with regard to the III-V nanowires and participated in weekly group meetings.
         
   - title: Design and development of a multifunctional passive filter for test circuits of 2D systems
     company: Instructed by Professor. Zhe Wang
