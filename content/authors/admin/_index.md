@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- 2D materials and devices
-- 1D semiconductors and devices
-- Computational Material Science (want to carry out)
+- 2D materials
+- Nanowires
+- Machine Learning
 
 # Education to show in About widget
 education:
@@ -28,6 +28,9 @@ education:
   - course: BSc in Physics
     institution: Shandong University
     year: 09/2020-present
+  - course: Research Internship
+    institution: Fudan University
+    year: 07/2022-08/2022
   - course: Research Internship
     institution: Xi'an jiaotong University
     year: 07/2021-08/2021
@@ -61,9 +64,8 @@ email: ""
 highlight_name: true
 ---
 
-I am an undergraduate student at [**Shandong University**](https://www.en.sdu.edu.cn/), keening on **Condensed Matter Physics**. My research focuses on understanding electronic and quantum properties of low dimensional systems by nano-device fabrication and electronic transport measurements. I am working on controllable synthesis and photoelectric performance investigation of III-V nanowires semiconductor nanostructures for optoelectronic device applications at [**Yang's Group**](https://faculty.sdu.edu.cn/yangzaixing/zh_CN/index.htm). I used to work on 2D material experimental study at [**Zhe Wang's Group**](https://gr.xjtu.edu.cn/en/web/zhe.wang) during my freshman year summer vacation.
+I am an undergraduate student at [**Shandong University**](https://www.en.sdu.edu.cn/), keening on **Condensed Matter Physics**. My research focuses on experimental and theoretical research on low-dimensional systems. I am working on construction of TMDs-GP/BN potentials via Deep Potential Molecular Dynamic method at [**Prof. Quansheng Wu's Group**](http://www.iop.cas.cn/rcjy/tpyjy/?id=1384). I used to work on 2D material experimental study at  [**Prof. Yuanbo Zhang's Group**](https://zhangruanlab.comand)(Summer 2022), [**Prof.Zai-xing Yang's Group**](https://faculty.sdu.edu.cn/yangzaixing/zh_CN/index.htm)(Sophomore year) and [**Prof. Zhe Wang's Group**](https://gr.xj.](https://gr.xjtu.edu.cn/en/web/zhe.wang/home)(Summer 2021).
 
-I am also want to carry out **Numerical investigation** of novel quantum phenomena in Condensed Matters.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Shangyi Guo_2022-04.pdf" "newtab" >}}CV{{< /staticref >}}.
