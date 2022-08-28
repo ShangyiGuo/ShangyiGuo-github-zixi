@@ -41,9 +41,9 @@ experience:
     date_end: '2022-08-01'
     description: |2-
      
-        * Developed a polymer-free process to pick up and assemble 2D materials (h-BN) using 300nm and 500nm 〖Si〗_3 N_4 thin film cantilevers coated with metals (2nm Cr,6nm Au) under ultra-high vacuum.
+        * Developed a polymer-free process to pick up and assemble 2D materials (h-BN) using 300nm and 500nm Si3N4 thin film cantilevers coated with metals (2nm Cr,6nm Au) under ultra-high vacuum.
         * Designed a fixture for fixing the polymer-free pick-up tools via solid work.
-        * Presented individual internship report entitled “Polymer-free Assembly of 2D Systems under Ultra-high Vacuum” in the final seminar.
+        * Presented individual internJship report entitled “Polymer-free Assembly of 2D Systems under Ultra-high Vacuum” in the final seminar.
    
   - title: Controllable synthesis and photoelectric performance (infrared detection) investigation of Core-Shell III-V nanowires
     company: Instructed by Professor. Zai-xing Yang
@@ -60,7 +60,7 @@ experience:
   - title: Design and development of a multifunctional passive filter for test circuits of 2D systems
     company: Instructed by Professor. Zhe Wang
     company_url: ''
-    location: Xi'an jiaotong University
+    location: Xi'an Jiaotong University
     date_start: '2021-07-01'
     date_end: '2021-08-31'
     description: |2-
