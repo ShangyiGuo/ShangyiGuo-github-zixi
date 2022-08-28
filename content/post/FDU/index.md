@@ -1,5 +1,5 @@
 ---
-title: I finished my summer internship in Yuanbo Zhang's Group.
+title:I finished my summer internship in Yuanbo Zhang's Group.
 
 # Summary for listings and search engines
 summary: This summer, I participated in Prof. Yuanbo Zhang's group and undertook the work "Novel Polymer-free Assembly Method of 2D Systems under Ultra-high Vacuum".
