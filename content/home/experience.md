@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: Institute of Physics, Chinese Academy of Science
     date_start: '2022-09-01'
-    date_end: ''
+    date_end: ' '
     description: |2-
      
         * Developing molecular dynamics potentials of 2D systems (TMDs-Graphene, TMDs-hBN) as accurate as the DFT via Deep Potentials Molecular Dynamics.
