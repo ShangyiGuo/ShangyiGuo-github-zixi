@@ -68,4 +68,4 @@ I am an undergraduate student at [**Shandong University**](https://www.en.sdu.ed
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Shangyi Guo_2022-04.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_ShangyiGuo_0828.pdf" "newtab" >}}CV{{< /staticref >}}.
