@@ -22,17 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Physical mechanism of membrane crossing and anticancer function of Nano-realgar 
-    company: Instructed by Professor. Yang Tan
+  - title: Construction of TMDs-GP/BN potentials via Deep Potential Molecular Dynamic method 
+    company: Instructed by Professor. Quansheng Wu
     company_url: ''
-    location: Shandong University
-    date_start: '2021-03-01'
-    date_end: '2021-05-31'
+    location: Institute of Physics, Chinese Academy of Science
+    date_start: '2022-09-01'
+    date_end: ''
     description: |2-
      
-        * Investigated relevant literature on the bactericidal effect of nanomaterials. 
-        * Wrote a research report entitled “the Physical Mechanism of Membrane Crossing and Anticancer Function of Nano-realgar” by summarizing a number of papers, in which a conjecture on the physical mechanism of membrane crossing of Nano-realgar was put forward.
-        * Presented individual research report entitled “NANO-REALGAR · ANTI-CANCER · CELL MEMBRANE” in the final seminar.
+        * Developing molecular dynamics potentials of 2D systems (TMDs-Graphene, TMDs-hBN) as accurate as the DFT via Deep Potentials Molecular Dynamics.
+        * Working on the project now and participating in weekly group meetings.
        
   - title: Controllable synthesis and photoelectric performance (infrared detection) investigation of Core-Shell III-V nanowires
     company: Instructed by Professor. Zai-xing Yang
