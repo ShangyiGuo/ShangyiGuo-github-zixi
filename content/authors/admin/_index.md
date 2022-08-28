@@ -32,7 +32,7 @@ education:
     institution: Fudan University
     year: 07/2022-08/2022
   - course: Research Internship
-    institution: Xi'an jiaotong University
+    institution: Xi'an Jiaotong University
     year: 07/2021-08/2021
 
 # Social/Academic Networking
