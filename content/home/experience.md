@@ -50,7 +50,7 @@ experience:
     company_url: ''
     location: Shandong University
     date_start: '2021-09-01'
-    date_end: 'P2022-06-01'
+    date_end: '2022-06-01'
     description: |2-
         
         * Synthesized Core-Shell III-V nanowires (GaSb@SnS2, GaAs@GeS2) with high aspect ratio and uniform shell thickness by controllable vapor-solid-solid growth mode of CVD.
