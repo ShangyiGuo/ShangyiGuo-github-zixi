@@ -1,8 +1,8 @@
 ---
-title: I finished my summer internship in Yuanbo Zhang's Group.
+title: I was selected for the Jingwei Leading Talent Program.
 
 # Summary for listings and search engines
-summary: This summer, I participated in Prof. Yuanbo Zhang's group and undertook the work "Novel Polymer-free Assembly Method of 2D Systems under Ultra-high Vacuum".
+summary: Jingwei Leading Talent Program is an important project of SDU to cultivate top talents among all fields.
 
 # Link this post with a project
 projects: []
@@ -32,6 +32,6 @@ authors:
 
 ---
 
-## I finished my summer internship in Yuanbo Zhang's Group.
+## Jingwei leading Talent Program (Jingwei Class)
 
-This summer, I joined Prof. Yuanbo Zhang's group at Fudan University and undertook the work "Novel Polymer-free Assembly Method of 2D Systems under Ultra-high Vacuum".
+For more detailed information about Jingwei Class，you can click [here](https://mp.weixin.qq.com/s/592UzAHR0GIoEM8gAL1IXQ).
