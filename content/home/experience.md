@@ -54,7 +54,7 @@ experience:
     description: |2-
         
         * Synthesized Core-Shell III-V nanowires (GaSb@SnS2, GaAs@GeS2) with high aspect ratio and uniform shell thickness by controllable vapor-solid-solid growth mode of CVD.
-        *	Discovered novel negative photoresponse which can enhance the photocurrent in near-infrared range (1310nm, 1550nm) of Core-Shell III-V nanowires (GaSb@SnS2, GaAs@GeS2) in visible wavelengths (405nm, 520nm) by using Semiconductor Device Analyzer and semiconductor laser.
+        * Discovered novel negative photoresponse which can enhance the photocurrent in near-infrared range (1310nm, 1550nm) of Core-Shell III-V nanowires (GaSb@SnS2, GaAs@GeS2) in visible wavelengths (405nm, 520nm) by using Semiconductor Device Analyzer and semiconductor laser.
         * Read masses of papers with regard to the III-V nanowires and participated in weekly group meetings.
         
   - title: Design and development of a multifunctional passive filter for test circuits of 2D systems
