@@ -27,23 +27,23 @@ experience:
     company_url: ''
     location: Institute of Physics, Chinese Academy of Science
     date_start: '2022-09-01'
-    date_end: ' '
+    date_end: ''
     description: |2-
      
         * Developing molecular dynamics potentials of 2D systems (TMDs-Graphene, TMDs-hBN) as accurate as the DFT via Deep Potentials Molecular Dynamics.
         * Working on the project now and participating in weekly group meetings.
        
- - title: Novel polymer-free assembly method of 2D systems under ultra-high vacuum
-    company: Instructed by Professor. Yuanbo Zhang
-    company_url: ''
-    location: Fudan University
-    date_start: '2022-07-01'
-    date_end: '2022-08-01'
-    description: |2-
+   - title: Novel polymer-free assembly method of 2D systems under ultra-high vacuum
+     company: Instructed by Professor. Yuanbo Zhang
+     company_url: ''
+     location: Fudan University
+     date_start: '2022-07-01'
+     date_end: '2022-08-01'
+     description: |2-
      
-        * Developed a polymer-free process to pick up and assemble 2D materials (h-BN) using 300nm and 500nm Si3N4 thin film cantilevers coated with metals (2nm Cr,6nm Au) under ultra-high vacuum.
-        * Designed a fixture for fixing the polymer-free pick-up tools via solid work.
-        * Presented individual internJship report entitled “Polymer-free Assembly of 2D Systems under Ultra-high Vacuum” in the final seminar.
+         * Developed a polymer-free process to pick up and assemble 2D materials (h-BN) using 300nm and 500nm Si3N4 thin film cantilevers coated with metals (2nm Cr,6nm Au) under ultra-high vacuum.
+         * Designed a fixture for fixing the polymer-free pick-up tools via solid work.
+         * Presented individual internJship report entitled “Polymer-free Assembly of 2D Systems under Ultra-high Vacuum” in the final seminar.
    
   - title: Controllable synthesis and photoelectric performance (infrared detection) investigation of Core-Shell III-V nanowires
     company: Instructed by Professor. Zai-xing Yang
