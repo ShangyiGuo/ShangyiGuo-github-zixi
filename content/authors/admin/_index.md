@@ -64,7 +64,7 @@ email: ""
 highlight_name: true
 ---
 
-I am an undergraduate student at [**Shandong University**](https://www.en.sdu.edu.cn/), keening on **Condensed Matter Physics**. I focus on experimental and theoretical research on low-dimensional systems. I am working on construction of TMDs-GP/BN potentials via Deep Potential Molecular Dynamic method at [**Prof. Quansheng Wu's Group**](http://www.iop.cas.cn/rcjy/tpyjy/?id=1384). I used to work on 2D material experimental study at  [**Prof. Yuanbo Zhang's Group**](https://zhangruanlab.comand)(Summer 2022), [**Prof.Zai-xing Yang's Group**](https://faculty.sdu.edu.cn/yangzaixing/zh_CN/index.htm)(Sophomore year) and [**Prof. Zhe Wang's Group**](https://gr.xjtu.edu.cn/en/web/zhe.wang/home)(Summer 2021).
+I am an undergraduate student at [**Shandong University**](https://www.en.sdu.edu.cn/), keening on **Condensed Matter Physics**. I focus on experimental and theoretical research on low-dimensional systems. I am working on construction of TMDs-GP/BN potentials via Deep Potential Molecular Dynamic method at [**Prof. Quansheng Wu's Group**](http://www.iop.cas.cn/rcjy/tpyjy/?id=1384). I used to work on low-dimensional materials experimental study at  [**Prof. Yuanbo Zhang's Group**](https://zhangruanlab.comand)(Summer 2022), [**Prof.Zai-xing Yang's Group**](https://faculty.sdu.edu.cn/yangzaixing/zh_CN/index.htm)(Sophomore year) and [**Prof. Zhe Wang's Group**](https://gr.xjtu.edu.cn/en/web/zhe.wang/home)(Summer 2021).
 
 
 
