@@ -1,9 +1,8 @@
 ---
-title: I finished my summer internship in Yuanbo Zhang's Group.
+title: I won the 2022 National Scholarship!
 
 # Summary for listings and search engines
-summary: This summer, I participated in Prof. Yuanbo Zhang's group and undertook the work "Novel Polymer-free Assembly Method of 2D Systems under Ultra-high Vacuum".
-
+summary: National Scholarship is the highest honor in China for the most excellent undergraduate!
 # Link this post with a project
 projects: []
 
@@ -32,6 +31,6 @@ authors:
 
 ---
 
-## I finished my summer internship in Yuanbo Zhang's Group.
+## I won the 2022 National Scholarship!
 
-This summer, I joined Prof. Yuanbo Zhang's group at Fudan University and undertook the work "Novel Polymer-free Assembly Method of 2D Systems under Ultra-high Vacuum".
+The National Scholarship is designed to encourage undergraduates to study hard, strive for progress and develop in an all-round way. It is a scholarship funded by China to reward outstanding students. It is a great honor for a college student to win the National Scholarship. National Scholarship is also the highest level of scholarship that students of higher education can obtain at present. Its evaluation is the most standardized and the standards are the most strict. Every year, nearly 27 million students from more than 2,000 colleges and universities compete for 60,000 national scholarships, only 0.2 percent of which are awarded.
