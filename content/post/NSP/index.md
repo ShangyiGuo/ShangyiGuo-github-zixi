@@ -6,6 +6,9 @@ summary: National Scholarship is the highest honor in China for the most excelle
 # Link this post with a project
 projects: []
 
+# Date published
+date: "2022-09-31"
+
 # Is this an unpublished draft?
 draft: false
 
