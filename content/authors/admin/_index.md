@@ -18,9 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- 2D Materials
-- Nanowires
-- Machine Learning
+- Physics
 
 # Education to show in About widget
 education:
@@ -31,9 +29,6 @@ education:
   - course: Research Internship
     institution: Fudan University
     year: 07/2022-08/2022
-  - course: Research Internship
-    institution: Xi'an Jiaotong University
-    year: 07/2021-08/2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
