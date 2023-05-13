@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shangyi Guo
+title: SYG
 
 # Is this the primary user of the site?
 superuser: true
