@@ -26,9 +26,6 @@ education:
   - course: BSc in Physics
     institution: Shandong University
     year: 09/2020-present
-  - course: Research Internship
-    institution: Fudan University
-    year: 07/2022-08/2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
