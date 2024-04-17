@@ -57,7 +57,6 @@ highlight_name: true
 ---
 
 I am an undergraduate student at [**Shandong University**](https://www.en.sdu.edu.cn/), keening on **Condensed Matter Physics**.
-Now my [**NEW HOMEPAGE**](https://apple-lady-4cd.notion.site/Shangyi-Guo-b59b9acac073426384374089cc0c3fe4) is online, Please click [**HERE**](https://apple-lady-4cd.notion.site/Shangyi-Guo-b59b9acac073426384374089cc0c3fe4) to visit!
 
 
 
